@@ -13,6 +13,7 @@ public class OptionsController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //SetDefault();
         volumeSlider.value = PlayerPrefsController.GetMasterVolume();
         difficultySlider.value = PlayerPrefsController.GetDifficulty();
     }

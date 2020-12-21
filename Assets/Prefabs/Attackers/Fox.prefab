@@ -220,6 +220,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38660fe5caeda74fa3691cac88025a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 300
+  health: 200
   deathVFX: {fileID: 1383051145446696183, guid: a6eb2fca61386584496a19a9d7cbbd96,
     type: 3}
